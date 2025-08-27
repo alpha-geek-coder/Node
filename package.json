@@ -1,0 +1,32 @@
+{
+  "name": "node-projects",
+  "version": "1.0.0",
+  "description": "Node projects + express.js",
+  "main": "./server/app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpha-geek-coder/Node.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Jadeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpha-geek-coder/Node/issues"
+  },
+  "homepage": "https://github.com/alpha-geek-coder/Node#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.18.0",
+    "morgan": "^1.10.1"
+  }
+}
