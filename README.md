@@ -26,7 +26,7 @@ This project is a basic server-side rendered (SSR) blog application built with N
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/alpha-geek-coder/Node.git
     cd your-repo
     ```
 2.  **Install dependencies:**
